@@ -1,6 +1,7 @@
 # openQCM-GUI-Matlab
 
 In order to use this code for data acquisition, open the file *OpenDaqQCM.fig* using GUIDE from Matlab (>= R2017a). 
+
 Run:
     > GUIDE
     
