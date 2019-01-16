@@ -7,7 +7,9 @@ Run:
     
 from the Matlab console
 
-Another route is to run the script *OpenDaqQCM.m* that will open the GUI interface
+Another route is to run the script *OpenDAQCM.m* that will open the GUI interface
+
+UPDATE: Currently working on a massive upgrade
 
 DM :smiley:
 
