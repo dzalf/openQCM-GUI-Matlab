@@ -1,6 +1,6 @@
 # openQCM-GUI-Matlab
 
-This is my contribution to the [openQCM](https://openqcm.com/openqcm) project for which I developed a visual interfase for data acquisition and visualization. It is a Matlab code based on the stock application written in Java by the one and only  [Marco Mauro](https://www.researchgate.net/profile/Marco_Mauro) :raised_hands:
+This is my contribution to the [openQCM](https://openqcm.com/openqcm) project for which I developed a visual interfase for data acquisition and visualization. It is a Matlab code based on the original application written in Java by the one and only  [Marco Mauro](https://www.researchgate.net/profile/Marco_Mauro) :raised_hands:
 
 **USAGE** 
 
