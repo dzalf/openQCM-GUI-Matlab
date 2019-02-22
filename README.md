@@ -21,6 +21,7 @@ Another route is to run the script *OpenDAQCM.m* that will open the GUI interfas
 2. Baseline calibration for a desired time is possible. This allows to obtain frequency shifts in terms of DeltaF for the sake of readability. This routine computes the Student's T-distribution with a 95% of confidence to extract the best baseline possible. During this stage the crystal should be under continuous and stable liquid flow.
 
 3. A big data matrix is saved once the data aquisition finishes and the user can select whether to save data as a txt file or xlsx file. Both files contain appropriate headers. 
+    
     3.1 If the baseline calibration routine is selected also a column with raw data values is generated
 
 4. Temperature is appended once the real capture begins.
