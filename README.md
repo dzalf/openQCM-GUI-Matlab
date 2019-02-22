@@ -41,7 +41,7 @@ At this point, the GUI looks like :eyes:
 
 2. Correct the visualization problems when switching from continuous to accumulative data display.
 
-3. Cleanup the visual interfase 
+3. Cleanup the visual interface 
 
 dzalf :smiley:
 
